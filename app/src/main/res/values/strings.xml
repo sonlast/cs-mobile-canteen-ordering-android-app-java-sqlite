@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">TCU_Canteen_App</string>
+    <string name="log_in">Log In as Customer</string>
+    <string name="log_in2">Log In as Seller</string>
+    <string name="email">Email</string>
+    <string name="sonilalto_gmail_com">example@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="passwrd">*********</string>
+    <string name="log_inbtn">Sign In</string>
+    <string name="contingency">Already have an Account?</string>
+    <string name="anything_you_want_here">Anything you want here</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="terms_and_conditionspage"><h2><strong>Terms and Conditions</strong></h2></string>
+    <string name="br3ak_one">BR3AK ƵONE</string>
+    <string name="customer">Customer</string>
+    <string name="seller">Seller</string>
+    <string name="sign_in_as">Sign in as:</string>
+    <string name="i_agree">I Agree</string>
+    <string name="view">View</string>
+    <string name="subheading"><b>BREAK ZONE!</b></string>
+    \n\n
+
+    <string name="content"><p>Welcome to Break Zone</p>
+        \n\n
+        <p>These terms and conditions outline the rules and regulations for the use of Break Zone.</p>
+        \n\n
+        <p>By using this app we assume you accept these terms and conditions. Do not continue to use Break Zone if you do not agree to take all of the terms and conditions stated on this page.</p>
+        \n\n
+        <p>Unless otherwise stated, Break Zone and/or its licensors own the intellectual property rights for all material on Break Zone. All intellectual property rights are reserved. You may access this from Break Zone for your own personal use subjected to restrictions set in these terms and conditions.</p>
+        \n\n
+        <p>You must not:</p>
+        \n
+            <p>- Republish material from Break Zone</p>
+        \n
+            <p>- Sell, rent or sub-license material from Break Zone</p>
+        \n
+            <p>- Reproduce, duplicate or copy material from Break Zone</p>
+        \n
+            <p>- Redistribute content from Break Zone</p>
+        \n\n
+        <p>This Agreement shall begin on the date hereof.</p>
+        \n\n
+        <p>Parts of this app offer an opportunity for sellers to post and update information in certain areas of the application. Break Zone does not filter, edit, publish or review Comments prior to their presence on the application. Comments do not reflect the views and opinions of Break Zone, its agents and/or affiliates. To the extent permitted by applicable laws.</p>
+        \n\n
+        <p>You hereby grant Break Zone a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your information in any and all forms, formats or media.</p>
+        \n\n
+        <p>Approved organizations may hyperlink to our App as follows:</p>
+        \n\n
+        <p>- By use of our corporate name; or</p>
+        \n
+        <p>- By use of the uniform resource locator being linked to; or</p>
+        \n
+        <p>- By use of any other description of our App being linked to that makes sense within the context and format of content on the linking party\’s site.</p>
+        \n\n
+        <p>No use of Break Zone\'s logo or other artwork will be allowed for linking absent a trademark license agreement.</p>
+        \n\n
+        <p>We reserve the right to request that you remove all links or any particular link to our App. You approve to immediately remove all links to our App upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our App, you agree to be bound to and follow these linking terms and conditions.</p>
+        \n\n
+        <p>As well as any other rights we have, we can end the Agreement and/or a Related Agreement at any time, with immediate effect</p>
+    </string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="sign_up_as_customer">Sign Up as Customer</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_as_seller">Sign Up as Seller</string>
+    <string name="re_password">Re-Password</string>
+    <string name="stall_1">Stall 1</string>
+    <string name="stall_2">Stall 2</string>
+    <string name="stall_3">Stall 3</string>
+    <string name="menu">Menu</string>
+    <string name="food">Food</string>
+    <string name="stall_1text">STALL 1</string>
+    <string name="regular_burger">Regular Burger</string>
+
+    <string name="_20">37</string>
+    <string name="peso_sign">₱</string>
+    <string name="place_order">Place Order</string>
+    <string name="cheese_burger">Cheese Burger</string>
+    <string name="_47">47</string>
+    <string name="_40">40</string>
+    <string name="mango_graham_shake">Mango Graham Shake</string>
+    <string name="siomai">Siomai</string>
+    <string name="_28">28</string>
+    <string name="pastil">Pastil</string>
+    <string name="_25">25</string>
+    <string name="milk_shake">Milk Shake</string>
+    <string name="coffee_shake">Coffee Shake</string>
+    <string name="_43">43</string>
+    <string name="palabok">Palabok</string>
+    <string name="_30">30</string>
+    <string name="juice">Juice</string>
+    <string name="oreo_shake">Oreo Shake</string>
+    <string name="chicken">Chicken</string>
+    <string name="_60">60</string>
+    <string name="lumpia">Lumpia</string>
+    <string name="_15">15</string>
+    <string name="hotdog">Hotdog</string>
+    <string name="_8">8</string>
+    <string name="ice_scramble">Ice Scramble</string>
+    <string name="_20_30">20 / 30</string>
+    <string name="ham">Ham</string>
+    <string name="egg">Egg</string>
+    <string name="stall_2text">Stall 2</string>
+    <string name="stall_3text">Stall 3</string>
+    <string name="_10">10</string>
+    <string name="rice">Rice</string>
+    <string name="bottled_water">Bottled Water</string>
+    <string name="_10_15_25">10 / 15 / 25</string>
+    <string name="cup_noodles">Cup Noodles</string>
+    <string name="spaghetti">Spaghetti</string>
+    <string name="pansit_bilao">Pansit Bilao</string>
+    <string name="_700">700</string>
+    <string name="shanghai">Shanghai</string>
+    <string name="boiled_egg">Boiled Egg</string>
+    <string name="_12">12</string>
+    <string name="_14">14</string>
+    <string name="burger_w_egg">Burger w/ Egg</string>
+    <string name="_59">59</string>
+    <string name="_69">69</string>
+    <string name="corndog">Corndog</string>
+    <string name="okoy">Okoy</string>
+    <string name="vitamilk">Vitamilk</string>
+    <string name="checkout_options">Payment</string>
+    <string name="options">Options</string>
+    <string name="zone">Zone</string>
+    <string name="break_">Break</string>
+    <string name="choose_your_store">Choose Your Store</string>
+    <string name="g_cash">G-Cash</string>
+    <string name="for_stall_1">For Stall 1</string>
+    <string name="_63_9235369100">+63 9235369100</string>
+    <string name="dash">-------------------------------------------------------------------------------------------------------------</string>
+    <string name="dasheswithor">---------------------------------------------------or--------------------------------------------------------</string>
+    <string name="reserve_for_me">RESERVE FOR ME</string>
+    <string name="info1">*In this case, you need to open your G-Cash application manually. You can copy to clipboard the number given above. Thank you. \n\n Message from Developers </string>
+    <string name="info2">*On the other hand, clicking the reservation button above, reserves the food for you. Thank you. \n\n Message from Developers </string>
+    <string name="confirm_used_of_g_cash">Confirm Used Of G-Cash</string>
+    <string name="for_stall_2">For Stall 2</string>
+    <string name="_63_9703032288">+63 9703032288</string>
+    <string name="for_stall_3">For Stall 3</string>
+    <string name="_63_9294915885">+63 9294915885</string>
+</resources>

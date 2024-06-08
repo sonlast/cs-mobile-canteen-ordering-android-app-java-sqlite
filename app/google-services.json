@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561156563581",
+    "project_id": "tcu-canteen-app",
+    "storage_bucket": "tcu-canteen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561156563581:android:a9e7273cbb5f97fa930714",
+        "android_client_info": {
+          "package_name": "com.example.tcu_canteen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561156563581-5o82fkj57n9e5rkic9701tn25usn9u3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd51ixNV-ZEijxte8zOxSQWbYFr4-OkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561156563581-5o82fkj57n9e5rkic9701tn25usn9u3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
