@@ -10,7 +10,6 @@
 
 ## Project Description
 
-### What your application does
 The CS Mobile Canteen Ordering App is a comprehensive solution for managing canteen operations digitally. It allows students to:
 - **Register and Login**: Securely create accounts and sign in using a locally stored database.
 - **Browse Stalls**: Explore multiple canteen stalls (Stall 1, 2, and 3) with dedicated menus.
@@ -18,18 +17,18 @@ The CS Mobile Canteen Ordering App is a comprehensive solution for managing cant
 - **Payment Integration**: A simulated G-Cash payment module where users can copy the merchant number for easier transactions.
 - **Seller Management**: Dedicated sign-up flow for canteen sellers to manage their presence on the platform.
 
-### Why you used the technologies you used
+### Technologies used
 - **Java**: Used as the core language for its robustness, wide support for Android development, and rich ecosystem of libraries.
 - **SQLite**: Chosen for local data persistence, allowing the app to store user credentials and basic order history without requiring a constant backend connection for critical operations.
 - **Android Studio**: Provided the integrated environment for UI design (XML), debugging, and deployment.
 - **Firebase**: Integrated for potentially scalable data management and analytics.
 
-### Some of the challenges you faced
+### Challenges faced
 - **Activity Lifecycle Management**: Coordinating transitions between multiple activities (Splash Screen, Stalls, Checkout) while maintaining a smooth user experience.
 - **Local Persistence**: Designing a reliable `DBHelper` class to handle user registration and login validation securely.
 - **UI Design**: Creating a responsive layout using XML that looks consistent across various Android device screen sizes.
 
-### Features you hope to implement in the future
+### Features to implement in the future
 - **Real-time Order Tracking**: Implement a live dashboard for users to see the status of their orders.
 - **Push Notifications**: Notify users when their food is ready for pickup or if there are new daily specials.
 - **In-App Payment Gateway**: Integrate actual payment APIs like G-Cash or Maya for seamless transactions.
@@ -96,17 +95,12 @@ The CS Mobile Canteen Ordering App is a comprehensive solution for managing cant
 ## Credits
 
 ### Author
-- **Ijerson Lastimosa Ilalto** - *Lead Developer* - [GitHub Profile](https://github.com/Ijerson)
-
-### Collaborators
-- We welcome contributions from the community! Feel free to fork the project and submit a PR.
+- **Ijerson Lastimosa Ilalto** - *Developer* - [GitHub Profile](https://github.com/Ijerson)
 
 ### Acknowledgments / Tutorials
 - Inspired by the need for digital transformation in university canteen services.
-- Special thanks to various Android tutorials (e.g., LearnAndroid) for guidance on SQLite integration and login systems.
 
 ---
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-- For more information on licenses, check out: [choosealicense.com](https://choosealicense.com/)
